@@ -1,0 +1,20 @@
+.thumbnail img {
+    height: 195px;
+}
+
+h1 { 
+    font-weight : 200;
+}
+
+h2, h3{
+    font-weight : 200;
+}
+
+table, th {
+    
+    font-size: 20px;
+    font-weight: 200;
+}
+table {
+    margin-top : 20px;
+}
